@@ -1,0 +1,3 @@
+clan_tag=#2G0QP2RU
+over_value_highlight=3000
+under_value_highlight=1600
